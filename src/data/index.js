@@ -1,4 +1,4 @@
-import logoLight from "@/images/logo.png";
+import logoLight from "@/images/logo colored b.png";
 import logoDark from "@/images/logo2.png";
 
 export const LogoImage = {

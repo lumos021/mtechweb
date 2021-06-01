@@ -14,7 +14,7 @@ const SinglePostCard = () => {
           <span className="blog_date">20 nov</span>
           <h2>Become the best sale marketer</h2>
           <p className="blog_metas">
-            <a href="#">By layerdrops</a>-<a href="#">30 Likes</a>-
+            <a href="#">By MtechWeb</a>-<a href="#">30 Likes</a>-
             <a href="#">2 Comments</a>
           </p>
         </div>
