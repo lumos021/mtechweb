@@ -1,4 +1,4 @@
-import logoLight from "@/images/logo colored b.png";
+import logoLight from "@/images/logo colored t.png";
 import logoDark from "@/images/logo2.png";
 
 export const LogoImage = {
@@ -91,7 +91,7 @@ import sliderOne02 from "@/images/slider/1_2.jpg";
 export const SliderOneData = [
   {
     image: sliderOne01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO MTEC WEB SOLUTIONS",
     title: "SMART WEB \n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -100,7 +100,7 @@ export const SliderOneData = [
   },
   {
     image: sliderOne02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO MTEC WEB SOLUTIONS",
     title: "SMART WEB \n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -116,7 +116,7 @@ import sliderTwo03 from "@/images/slider/2_3.jpg";
 export const SliderTwoData = [
   {
     image: sliderTwo01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO MTEC WEB SOLUTIONS",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -125,7 +125,7 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO MTEC WEB SOLUTIONS",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -134,7 +134,7 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo03,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO MTEC WEB SOLUTIONS",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -149,7 +149,7 @@ import sliderThree02 from "@/images/slider/3_2.jpg";
 export const SliderThreeData = [
   {
     image: sliderThree01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO MTEC WEB SOLUTIONS",
     title: "SMART WEB\n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -158,7 +158,7 @@ export const SliderThreeData = [
   },
   {
     image: sliderThree02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO MTEC WEB SOLUTIONS",
     title: "SMART WEB\n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -182,7 +182,7 @@ export const ContactInfosList = [
         name: "22 Texas West Hills",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "needhelp@mtec.com",
       },
       {
         name: "666 888 000",
@@ -196,7 +196,7 @@ export const ContactInfosList = [
         name: "5 Federal Street Boston",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "needhelp@mtec.com",
       },
       {
         name: "666 888 000",
@@ -210,7 +210,7 @@ export const ContactInfosList = [
         name: "8th Broklyn New York",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "needhelp@mtec.com",
       },
       {
         name: "666 888 000",
@@ -224,7 +224,7 @@ export const ContactInfosList = [
         name: "3 Lombabr 50 baltimore",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "needhelp@mtec.com",
       },
       {
         name: "666 888 000",
@@ -500,7 +500,7 @@ export const ServicePostData = [
 ];
 
 export const ServiceHomeTwoData = {
-  subTitle: "welcome to smart meipaly web agency",
+  subTitle: "welcome to smart mtec web solutions",
   title: "We design digital products that \n help grow businesses.",
   text:
     "We are committed to providing our customers with exceptional service while\n offering our employees the best training.",
@@ -650,7 +650,7 @@ import aboutOne02 from "@/images/about/2.jpg";
 
 export const AboutOneData = {
   sectionContent: {
-    title: "build better website alot quicker with meipaly agency",
+    title: "build better website alot quicker with MTEC WEB SOLUTIONS",
     subTitle: "get to know us",
   },
   gallery: [aboutOne01, aboutOne02],
@@ -1017,7 +1017,7 @@ import aboutTwo02 from "@/images/home_1/1.jpg";
 export const AboutTwoData = {
   sectionContent: {
     title: "We are the Best Website agency in The World",
-    subTitle: "welcom to smart meipaly web agency",
+    subTitle: "welcom to smart mtec web solutions",
     text:
       "We are committed to providing our customers with exceptional service while offering our employees the best training. Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500s.",
   },

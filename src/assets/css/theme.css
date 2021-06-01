@@ -2016,24 +2016,24 @@
   margin-right: 10px;
   line-height: 36px;
 }
-.meipaly_services_help {
+.mtec_services_help {
   position: relative;
   background: url(../images/s3.jpg) no-repeat center center / cover;
   padding: 47px 50px 47px;
 }
-.meipaly_services_help h4 {
+.mtec_services_help h4 {
   font-size: 18px;
   color: #ffffff;
   letter-spacing: 0.72px;
   text-transform: uppercase;
   margin: 0 0 40px;
 }
-.meipaly_services_help p {
+.mtec_services_help p {
   color: #aaaaaa;
   margin: 0 0 25px;
   padding-right: 5px;
 }
-.meipaly_services_help h2 {
+.mtec_services_help h2 {
   font-size: 30px;
   color: #ffffff;
   letter-spacing: 1.2px;
@@ -2219,8 +2219,8 @@
 /*----------------------------------------------------
 / 24. Blog Page
 ------------------------------------------------------*/
-.meipaly_paginations a,
-.meipaly_paginations span {
+.mtec_paginations a,
+.mtec_paginations span {
   position: relative;
   display: inline-block;
   height: 46px;
@@ -2236,14 +2236,14 @@
   -webkit-transition: all 0.4s ease-out;
   transition: all 0.4s ease-out;
 }
-.meipaly_paginations a.next,
-.meipaly_paginations a.prev {
+.mtec_paginations a.next,
+.mtec_paginations a.prev {
   font-size: 20px;
   padding: 12px 0;
   margin: 0 2px;
 }
-.meipaly_paginations a:after,
-.meipaly_paginations span:after {
+.mtec_paginations a:after,
+.mtec_paginations span:after {
   width: 4px;
   height: 0;
   position: absolute;
@@ -2258,18 +2258,18 @@
   -webkit-transition: all 0.4s ease-out;
   transition: all 0.4s ease-out;
 }
-.meipaly_paginations a.prev:after {
+.mtec_paginations a.prev:after {
   right: auto;
   left: 0;
 }
-.meipaly_paginations a:hover:after,
-.meipaly_paginations span.current:after {
+.mtec_paginations a:hover:after,
+.mtec_paginations span.current:after {
   height: 100%;
   visibility: visible;
   opacity: 1;
 }
-.meipaly_paginations a:hover,
-.meipaly_paginations span.current {
+.mtec_paginations a:hover,
+.mtec_paginations span.current {
   color: #fff;
   background: #000;
 }
@@ -2613,7 +2613,7 @@ textarea.input-form:focus {
   padding: 23px 48px 24px;
   border: 2px solid #f4f4f4;
 }
-.meipaly_post_widget {
+.mtec_post_widget {
   position: relative;
   background: #f4f4f4;
   padding: 50px;
@@ -2648,44 +2648,44 @@ textarea.input-form:focus {
 .mpw_item a:hover {
   color: #000;
 }
-.meipaly_categorie_widget {
+.mtec_categorie_widget {
   position: relative;
   background: #f4f4f4;
   padding: 43px 50px 44px;
 }
-.meipaly_categorie_widget ul {
+.mtec_categorie_widget ul {
   margin: 0;
   padding: 0;
 }
-.meipaly_categorie_widget ul li {
+.mtec_categorie_widget ul li {
   list-style: none;
   display: block;
   margin: 0 0 12px;
 }
-.meipaly_categorie_widget ul li:last-of-type {
+.mtec_categorie_widget ul li:last-of-type {
   margin-bottom: 0;
 }
-.meipaly_categorie_widget ul li a {
+.mtec_categorie_widget ul li a {
   display: inline-block;
   font-size: 16px;
   line-height: 22px;
   color: #818181;
 }
-.meipaly_categorie_widget ul li a:hover {
+.mtec_categorie_widget ul li a:hover {
   color: #000;
 }
-.meipaly_tagcloude_widget {
+.mtec_tagcloude_widget {
   position: relative;
   background: #f4f4f4;
   padding: 43px 50px 44px;
 }
-.meipaly_tagcloude_widget a {
+.mtec_tagcloude_widget a {
   display: inline-block;
   font-size: 16px;
   line-height: 30px;
   color: #818181;
 }
-.meipaly_tagcloude_widget a:hover {
+.mtec_tagcloude_widget a:hover {
   color: #000;
 }
 

@@ -30,7 +30,7 @@ const Footer = () => {
               </p>
               <p>P: 666 888 000</p>
               <p>
-                E: <a href="#">needhelp@meipaly.com</a>
+                E: <a href="#">needhelp@mtec.com</a>
               </p>
             </aside>
           </div>

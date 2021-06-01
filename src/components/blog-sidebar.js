@@ -10,7 +10,7 @@ const BlogSidebar = () => {
       </aside>
       <aside className="widget recent_posts">
         <h3 className="widget_title">Latest Posts</h3>
-        <div className="meipaly_post_widget">
+        <div className="mtec_post_widget">
           {BlogSidebarPost.map(({ title, image, url }, index) => (
             <div className="mpw_item" key={index}>
               <img src={image} alt="" />
@@ -21,7 +21,7 @@ const BlogSidebar = () => {
       </aside>
       <aside className="widget categories">
         <h3 className="widget_title">Categories</h3>
-        <div className="meipaly_categorie_widget">
+        <div className="mtec_categorie_widget">
           <ul>
             <li>
               <a href="#">Business</a>
@@ -46,7 +46,7 @@ const BlogSidebar = () => {
       </aside>
       <aside className="widget">
         <h3 className="widget_title">Tags:</h3>
-        <div className="meipaly_tagcloude_widget">
+        <div className="mtec_tagcloude_widget">
           <a href="#">Business,</a> <a href="#">Agency,</a>{" "}
           <a href="#">Digital,</a> <a href="#">Technology,</a>
           <a href="#">Parallax,</a> <a href="#">Innovative,</a>{" "}

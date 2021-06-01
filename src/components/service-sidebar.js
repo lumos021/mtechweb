@@ -5,7 +5,7 @@ const ServiceSidebar = () => {
     <Fragment>
       <aside className="widget categories">
         <h3 className="widget_title">Services</h3>
-        <div className="meipaly_categorie_widget">
+        <div className="mtec_categorie_widget">
           <ul>
             <li>
               <a href="#">Website Development</a>
@@ -26,8 +26,8 @@ const ServiceSidebar = () => {
         </div>
       </aside>
       <aside className="widget categories">
-        <div className="meipaly_services_help">
-          <h4>need meipaly help?</h4>
+        <div className="mtec_services_help">
+          <h4>need mtec help?</h4>
           <p>
             Prefer speaking with a human to filling out a form? call corporate
             office and we will connect you with a team member who can help.

@@ -2,7 +2,7 @@ import React from "react";
 
 const Paginations = () => {
   return (
-    <div className="meipaly_paginations text-center">
+    <div className="mtec_paginations text-center">
       <a className="prev" href="#">
         <i className="fa fa-angle-left"></i>
       </a>
